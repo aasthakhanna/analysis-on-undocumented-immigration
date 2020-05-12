@@ -1,2 +1,2 @@
-# analysis-on-undocumented-immigration
-analysis on undocumented immigration done in python using pandas and numpy. pair-programmed on jupyter notebook. hosted on: http://lordwill753.github.io
+# Analysis on Undocumented Immigration
+An analysis on undocumented immigration in the United States, written in Python using Pandas and Numpy for data manipulation.
